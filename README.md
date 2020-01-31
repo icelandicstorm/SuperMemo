@@ -19,8 +19,10 @@ Then one day it hit me.  Why not leverage the world-wide standard used by web de
 
 ```
 Q: Test Question 1 from TOPIC_NAME
+Q: Additional info if desired, such as create date.  I like to include at a minimum the local PATH of the file for troubleshooting.
 Q: <script language="javascript">window.location.href = "file:///C:/Data/Knowledgebase/Training/Question1.htm"</script>
 A: <script language="javascript">window.location.href = "file:///C:/Data/Knowledgebase/Training/Answer1.htm"</script>
+A: Additional info as needed such as such as LOCAL PATH; comments or additional references.
 ```
 
 
