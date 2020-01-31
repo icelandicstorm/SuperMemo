@@ -1,0 +1,3 @@
+Q: Test Question 1 from TOPIC_NAME
+Q: <script language="javascript">window.location.href = "file:///C:/Data/Knowledgebase/Training/Question1.htm"</script>
+A: <script language="javascript">window.location.href = "file:///C:/Data/Knowledgebase/Training/Answer1.htm"</script>
