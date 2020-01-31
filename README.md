@@ -13,7 +13,7 @@ Then one day it hit me.  Why not leverage the world-wide standard used by web de
 
   `C:/Data/Knowledgebase/Training/`
 
-2. Create your Question HTML file and your Answer HTML file.  There are many substeps involved.  More info to come later.
+2. Create your Question HTML file and your Answer HTML file.  There are many substeps involved.  More info to come later.  If you are anxious to get ahead, simply think of what you can do with a single web page.  You can include a JPEG; a sound file; a video file etc.  All neatly organized in the directory structure of your choosing.
 
 3. Create your SuperMemo Q & A file for import into SuperMemo.  The intent is to reference your existing HTML files and the format is like this:
 
