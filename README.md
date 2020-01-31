@@ -25,5 +25,4 @@ A: <script language="javascript">window.location.href = "file:///C:/Data/Knowled
 A: Additional info as needed such as such as LOCAL PATH; comments or additional references.
 ```
 
-
-
+4. Import into SuperMemo and never worry about your presentation again!
