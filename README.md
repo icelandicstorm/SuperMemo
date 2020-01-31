@@ -17,9 +17,11 @@ Then one day it hit me.  Why not leverage the world-wide standard used by web de
 
 3. Create your SuperMemo Q & A file for import into SuperMemo.  The intent is to reference your existing HTML files and the format is like this:
 
-```Q: Test Question 1 from TOPIC_NAME
+```
+Q: Test Question 1 from TOPIC_NAME
 Q: <script language="javascript">window.location.href = "file:///C:/Data/Knowledgebase/Training/Question1.htm"</script>
-A: <script language="javascript">window.location.href = "file:///C:/Data/Knowledgebase/Training/Answer1.htm"</script>```
+A: <script language="javascript">window.location.href = "file:///C:/Data/Knowledgebase/Training/Answer1.htm"</script>
+```
 
 
 
